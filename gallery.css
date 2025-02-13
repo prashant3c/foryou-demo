@@ -31,7 +31,7 @@ body{
 .one{
     display: flex;
     /* border: 2px solid red; */
-    border-radius: 7mm;
+/*     border-radius: 7mm; */
     overflow: hidden;
 }
 
